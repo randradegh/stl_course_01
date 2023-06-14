@@ -72,7 +72,9 @@ st.markdown("""
 
     El ambiente de desarrollo para el curso será [Conda](https://anaconda.org/anaconda/conda) o Miniconda.
 
-     > *Conda es un sistema de gestión de paquetes de código abierto y un sistema de gestión del entorno para instalar múltiples versiones de paquetes de software y sus dependencias y cambiar fácilmente entre ellos. Funciona en Linux, OS X y Windows. Fue creado para programas     Python, pero puede empaquetar y distribuir cualquier software.*
+     > *Conda es un sistema de gestión de paquetes de código abierto y un sistema de gestión del entorno para instalar múltiples versiones de paquetes de software y sus dependencias y cambiar fácilmente entre ellos. 
+     Funciona en Linux, OS X y Windows.
+     Fue creado para programas Python, pero puede empaquetar y distribuir cualquier software.*
 """)
 
 st.subheader("Configuración de Conda")
@@ -168,11 +170,6 @@ Las bibliotecas mínimas que usaremos (e instalaremos en su caso) serán:
 
 - numpy
 `conda install -c anaconda numpy`
-
-¡OJJJO!
-- SciPy
-`conda install -c anaconda scipy`
-
 ___
 """
 
