@@ -77,6 +77,7 @@ def footer(text):
 def subheader(text):
     BG_COLOR = "#E6E6E6"
     FONT_COLOR = "#6E6E6E"
+    font = "sans-serif"
     st.markdown(f'''
     <p style="background-color:{BG_COLOR};color:{FONT_COLOR};font-size:26px;border-radius:2%;">{text}</p>
     ''', unsafe_allow_html=True)
