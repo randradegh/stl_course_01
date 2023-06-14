@@ -162,13 +162,16 @@ Las bibliotecas mínimas que usaremos (e instalaremos en su caso) serán:
 `conda install -c anaconda pandas`
 
 - Plotly
+
 `conda install -c plotly plotly`
 
 - Pydeck
+
 `conda install -c conda-forge pydeck`
 
 
 - numpy
+
 `conda install -c anaconda numpy`
 ___
 """

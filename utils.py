@@ -40,7 +40,7 @@ footer {
 }
 
 footer:after {
-    content:'Copyrigth © 2022, RAF.';
+    content:'Copyrigth © 2023, RAF.';
     display:block;
     position:relative;
     color:#2E4053;
