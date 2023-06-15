@@ -169,11 +169,10 @@ Las bibliotecas mínimas que usaremos (e instalaremos en su caso) serán:
 
 `conda install -c conda-forge pydeck`
 
-
 - numpy
 
 `conda install -c anaconda numpy`
 ___
 """
 
-#footer("Copyrigth © 2023, RAF")
+footer("Copyrigth © 2023, RAF")
