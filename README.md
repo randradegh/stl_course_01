@@ -1,8 +1,5 @@
 Curso de Streamlit.
 
-mié 14 jun 2023 11:15:00 CST
+Primera app del curso de «Intro al análisis de datos con Streamlit de Python».
 
-
-Primer commit.
-
-
+RAF (c)
